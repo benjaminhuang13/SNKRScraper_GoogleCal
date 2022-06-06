@@ -7,6 +7,8 @@ Bugs(Features):
 - somtimes when token expires, it needs to be deleted in order to run the program again and refresh the token
 
 ![img of cal event](https://github.com/benjaminhuang13/SNKRScraper-GoogleCal/blob/main/google_cal_event.png?raw=true)
+![img of cal event](https://github.com/benjaminhuang13/SNKRScraper-GoogleCal/blob/main/imageOfcmdOutput.png?raw=true)
+
 
 Resources:
 https://developers.google.com/calendar/api/guides/overview
