@@ -6,9 +6,9 @@ Scraper that scrapes SNKR.com's upcoming drops and searches up stockX.com's data
 ## "Security Feature" (Actually a bug):
 - Somtimes when token expires, it needs to be deleted in order to run the program again and it will refresh the token.
 
+## Results
 ![img of cal event](https://github.com/benjaminhuang13/SNKRScraper-GoogleCal/blob/main/google_cal_event.png?raw=true)
 ![img of cal event](https://github.com/benjaminhuang13/SNKRScraper-GoogleCal/blob/main/imageOfcmdOutput.png?raw=true)
-
 
 ## Resources:
 https://developers.google.com/calendar/api/guides/overview
