@@ -1,4 +1,4 @@
-Update 2022-07-17: SNKR website has been updated leading the product scrapping to fail.
+### Update 2022-07-17: SNKR website has been updated to include anti-scrapping properties and prevent the bot from scrapping for data.
 
 # SNKRScraper-GoogleCal
 Bot that scrapes SNKR.com's upcoming drops and searches for selling price data on stockX.com to determine if drops are worth re-selling. If a drop is found to be profitable, the bot will create a Google calendar invite using the Google calendar API. Beautifulsoup library is used to parse scraped data. Comments are left within the code to indicate where to fill in necessary data.
